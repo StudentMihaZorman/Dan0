@@ -1,1 +1,4 @@
 nova sprememba
+
+
+še ena nova funkcija
